@@ -31,7 +31,7 @@
                 total = total-5;
             }
 
-            Console.WriteLine($"The total charge for the group is: £{total}");
+            Console.WriteLine("The total charge for the group is: £" + total);
 
 
 
